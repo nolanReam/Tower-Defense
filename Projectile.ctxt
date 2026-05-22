@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Projectile
+comment0.text=\r\n\ Represents\ a\ projectile\ (e.g.,\ a\ bullet\ fired\ by\ the\ player).\r\n\ Extends\ GameObject\ and\ implements\ its\ abstract\ methods.\r\n
+comment1.params=x\ y\ width\ height\ speed
+comment1.target=Projectile(int,\ int,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ Projectile.\r\n\ @param\ x\ The\ initial\ x-coordinate.\r\n\ @param\ y\ The\ initial\ y-coordinate.\r\n\ @param\ width\ The\ width\ of\ the\ projectile.\r\n\ @param\ height\ The\ height\ of\ the\ projectile.\r\n\ @param\ speed\ The\ traveling\ speed\ of\ the\ projectile.\r\n
+comment2.params=
+comment2.target=void\ update()
+comment2.text=\r\n\ Updates\ the\ projectile's\ position,\ making\ it\ move\ upwards.\r\n\ Deactivates\ the\ projectile\ if\ it\ goes\ off-screen.\r\n
+comment3.params=g
+comment3.target=void\ draw(java.awt.Graphics)
+comment3.text=\r\n\ Draws\ the\ projectile\ on\ the\ screen.\r\n\ @param\ g\ The\ Graphics\ object\ used\ for\ drawing.\r\n
+numComments=4

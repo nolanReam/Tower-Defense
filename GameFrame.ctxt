@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=GameFrame
+comment0.text=\r\n\ The\ main\ application\ window\ for\ the\ Cosmic\ Defender\ game.\r\n\ Sets\ up\ the\ JFrame\ and\ adds\ the\ GamePanel\ to\ it.\r\n
+comment1.params=
+comment1.target=GameFrame()
+comment1.text=\r\n\ Constructor\ for\ GameFrame.\r\n\ Configures\ the\ window\ properties\ and\ adds\ the\ game\ panel.\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\r\n\ Main\ method\ to\ start\ the\ game\ application.\r\n\ Ensures\ the\ GUI\ is\ created\ and\ updated\ on\ the\ Event\ Dispatch\ Thread\ (EDT).\r\n\ @param\ args\ Command\ line\ arguments\ (not\ used).\r\n
+numComments=3

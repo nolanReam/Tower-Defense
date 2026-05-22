@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Enemy
+comment0.text=\r\n\ Represents\ an\ enemy\ character\ that\ falls\ from\ the\ top\ of\ the\ screen.\r\n\ Extends\ GameObject\ and\ implements\ its\ abstract\ methods.\r\n
+comment1.params=x\ y\ width\ height\ speed
+comment1.target=Enemy(int,\ int,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ Enemy.\r\n\ @param\ x\ The\ initial\ x-coordinate.\r\n\ @param\ y\ The\ initial\ y-coordinate.\r\n\ @param\ width\ The\ width\ of\ the\ enemy.\r\n\ @param\ height\ The\ height\ of\ the\ enemy.\r\n\ @param\ speed\ The\ falling\ speed\ of\ the\ enemy.\r\n
+comment2.params=
+comment2.target=void\ update()
+comment2.text=\r\n\ Updates\ the\ enemy's\ position,\ making\ it\ fall\ downwards.\r\n\ Deactivates\ the\ enemy\ if\ it\ goes\ off-screen.\r\n
+comment3.params=g
+comment3.target=void\ draw(java.awt.Graphics)
+comment3.text=\r\n\ Draws\ the\ enemy\ character\ on\ the\ screen.\r\n\ @param\ g\ The\ Graphics\ object\ used\ for\ drawing.\r\n
+numComments=4

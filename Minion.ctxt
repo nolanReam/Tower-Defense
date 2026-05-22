@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Minion
+comment0.text=\r\n\ An\ enemy\ that\ is\ a\ bit\ smaller\ and\ moves\ a\ bit\ faster\r\n
+comment1.params=x\ y
+comment1.target=Minion(int,\ int)
+comment2.params=g
+comment2.target=void\ draw(java.awt.Graphics)
+comment2.text=\r\n\ Draws\ the\ enemy\ character\ on\ the\ screen.\r\n\ @param\ g\ The\ Graphics\ object\ used\ for\ drawing.\r\n
+numComments=3

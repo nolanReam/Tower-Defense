@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ Represents\ the\ player\ character\ in\ the\ game.\r\n\ Extends\ GameObject\ and\ implements\ its\ abstract\ methods.\r\n
+comment1.params=x\ y\ width\ height\ speed
+comment1.target=Player(int,\ int,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ Player.\r\n\ @param\ x\ The\ initial\ x-coordinate.\r\n\ @param\ y\ The\ initial\ y-coordinate.\r\n\ @param\ width\ The\ width\ of\ the\ player.\r\n\ @param\ height\ The\ height\ of\ the\ player.\r\n\ @param\ speed\ The\ movement\ speed\ of\ the\ player.\r\n
+comment2.params=
+comment2.target=void\ update()
+comment2.text=\r\n\ Updates\ the\ player's\ position\ based\ on\ horizontal\ movement.\r\n\ Ensures\ the\ player\ stays\ within\ screen\ bounds.\r\n
+comment3.params=g
+comment3.target=void\ draw(java.awt.Graphics)
+comment3.text=\r\n\ Draws\ the\ player\ character\ on\ the\ screen.\r\n\ @param\ g\ The\ Graphics\ object\ used\ for\ drawing.\r\n
+comment4.params=keyCode
+comment4.target=void\ keyPressed(int)
+comment4.text=\r\n\ Handles\ key\ press\ events\ for\ player\ movement.\r\n\ @param\ keyCode\ The\ integer\ code\ of\ the\ pressed\ key.\r\n
+comment5.params=keyCode
+comment5.target=void\ keyReleased(int)
+comment5.text=\r\n\ Handles\ key\ release\ events\ to\ stop\ player\ movement.\r\n\ @param\ keyCode\ The\ integer\ code\ of\ the\ released\ key.\r\n
+comment6.params=
+comment6.target=int\ getLives()
+comment7.params=
+comment7.target=void\ addLife()
+comment8.params=
+comment8.target=void\ decLife()
+numComments=9

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Bomber
+comment0.text=\r\n\ Takes\ two\ hits\ to\ die\r\n\ Explodes\ when\ gets\ a\ certain\ distance\ from\ the\ player\r\n\ Extends\ GameObject\ and\ implements\ its\ abstract\ methods.\r\n
+comment1.params=x\ y
+comment1.target=Bomber(int,\ int)
+comment2.params=
+comment2.target=void\ update()
+comment3.params=g
+comment3.target=void\ draw(java.awt.Graphics)
+comment4.params=
+comment4.target=void\ triggerExplosion()
+comment5.params=playerX\ playerY
+comment5.target=void\ checkDistance(int,\ int)
+comment6.params=
+comment6.target=void\ incHits()
+numComments=7
